@@ -1,0 +1,11 @@
+Model Information:
+* title:	Battlestar Galactica 1978 - Tiger-class [FANON]
+* source:	https://sketchfab.com/3d-models/battlestar-galactica-1978-tiger-class-fanon-19cde03128e142ec946ea207dd6ad2a7
+* author:	3D_Star Galactica (https://sketchfab.com/3D_Star_Galactica)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Battlestar Galactica 1978 - Tiger-class [FANON]" (https://sketchfab.com/3d-models/battlestar-galactica-1978-tiger-class-fanon-19cde03128e142ec946ea207dd6ad2a7) by 3D_Star Galactica (https://sketchfab.com/3D_Star_Galactica) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
